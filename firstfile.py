@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
+from const import *
 
 
 def main():
-    print('Hello!')
+    print(HW)
 
 
 if __name__ == "__main__":
